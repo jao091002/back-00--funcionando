@@ -1,0 +1,22 @@
+{
+  "name": "back-00--funcionando",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jao091002/back-00--funcionando.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jao091002/back-00--funcionando/issues"
+  },
+  "homepage": "https://github.com/jao091002/back-00--funcionando#readme",
+  "dependencies": {
+    "http": "^0.0.1-security"
+  }
+}
